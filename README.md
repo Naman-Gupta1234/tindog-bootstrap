@@ -1,2 +1,2 @@
-# tindog-bootstrap
+# Tindog
 Startup Landing Page using Bootstrap
