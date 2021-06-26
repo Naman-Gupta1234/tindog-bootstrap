@@ -1,11 +1,11 @@
 body{
     font-family: 'Montserrat', sans-serif;
-    color: #fff;
+    color: #000;
 
 }
 h1{
     font-family: 'Montserrat', sans-serif;
-    size:3rem;
+    font-size:3.5rem;
     line-height:1.5;
     font-weight:900;
 }
@@ -42,5 +42,11 @@ h1{
 }
 /* title-image */
 .title-image{
-    
+    width:60%;
+    transform:rotate(25deg);
+
+}
+/* feature-images */
+.feature-images{
+    size:200%;
 }
