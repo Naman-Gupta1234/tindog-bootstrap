@@ -60,10 +60,8 @@ h1{
     color:#8f8f8f;
 }
 /* feature-images */
-.feature-images{
-   
-}
-i:hover{
+.feature-images:hover{
     color:#ff4c68;
        
 }
+   
