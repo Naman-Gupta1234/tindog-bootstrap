@@ -50,12 +50,16 @@ h1{
     color:black;
     padding:7% 15%;
 }
+.feature-box{
+    text-align:center;
+}
 /* feature-headings */
 .feature-headings{
     font-family: 'Montserrat', sans-serif;
     font-weight:bold;
     font-size: 1.5rem;
     text-align: center;
+    padding-top: 3%;
 
 
 }
