@@ -55,13 +55,13 @@ h2{
     /* or max-width:60% - this will also work */ 
     /* max-width:60%; */
     width:60%;
-    margin-bottom:-60%;
+    /* margin-bottom:-60%; */
     transform:rotate(25deg);
     position:absolute;
 
 }
 #features{
-    color:black;
+    /* color:black; */
     padding:7% 15%;
     background-color:#fff;
   position:relative;
